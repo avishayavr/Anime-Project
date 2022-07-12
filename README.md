@@ -7,7 +7,7 @@ Also we created a login page and singin page using the local storage methods(set
 The style and responssive pages created by bootstrap , media query and scss.
 # Project Flow
 * Difficulties:
-* API the api searching took to much time and api that i find limited me in terms of his ideas.
+ API the api searching took to much time and api that i find limited me in terms of his ideas.
 * What was goood:
 # Wireframes & Design
 ![Wireframe - 1](https://miro.com/app/board/uXjVOm0VXMQ=/)
