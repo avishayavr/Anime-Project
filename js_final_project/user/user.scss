@@ -1,0 +1,46 @@
+// style for the body
+body {
+  padding: 0;
+  margin: 0;
+  background-color: rgb(18, 18, 18);
+  // style fot the header/profile
+  .profile {
+    height: 300px;
+    background-image: url(https://wallpaperaccess.com/full/495211.png);
+    background-size: cover;
+    .about{
+      width: 60%;
+      height: 90%;
+    }
+  }
+  // style for the main
+  main {
+    // style for the top left side of the container
+    .top-left-side {
+      height: 1500px;
+      img {
+        height: 300px;
+        width: 200px;
+      }
+    }
+    // style for the main container
+    .main-container {
+      width: 50%;
+      .clicked-icon{
+        color: cyan;
+      }
+    }
+  }
+}
+
+// media query for the about div
+@media screen and (max-width: 700px) {
+  body{
+  .profile {
+    .about{
+      width: 80%;
+    }
+  }
+}
+
+}

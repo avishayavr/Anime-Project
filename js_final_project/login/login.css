@@ -1,0 +1,32 @@
+body {
+  height: 100vh;
+  background-image: url(https://wallpaperaccess.com/full/5720383.jpg);
+  background-size: cover;
+}
+
+body .right-side {
+  height: 100vh;
+  width: 50%;
+}
+
+body .right-side .box {
+  height: 250px;
+  border-radius: 50px;
+}
+
+body .right-side .box img {
+  width: 200px;
+}
+
+body .right-side .box input {
+  width: 250px;
+  height: 50px;
+  border-radius: 40px;
+}
+
+body .right-side .box button {
+  width: 250px;
+  height: 50px;
+  border-radius: 40px;
+}
+/*# sourceMappingURL=login.css.map */

@@ -1,0 +1,40 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #121212;
+}
+
+body .profile {
+  height: 300px;
+  background-image: url(https://wallpaperaccess.com/full/495211.png);
+  background-size: cover;
+}
+
+body .profile .about {
+  width: 60%;
+  height: 90%;
+}
+
+body main .top-left-side {
+  height: 1500px;
+}
+
+body main .top-left-side img {
+  height: 300px;
+  width: 200px;
+}
+
+body main .main-container {
+  width: 50%;
+}
+
+body main .main-container .clicked-icon {
+  color: cyan;
+}
+
+@media screen and (max-width: 700px) {
+  body .profile .about {
+    width: 80%;
+  }
+}
+/*# sourceMappingURL=user.css.map */

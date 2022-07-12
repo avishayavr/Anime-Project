@@ -1,0 +1,30 @@
+body{
+    height: 100vh;
+    background-image: url(https://wallpaperaccess.com/full/7825043.jpg);
+    background-size: cover;
+    .left-side{
+        height: 100vh;
+        width: 50%;
+        .box{
+            height: 250px;
+            border-radius: 50px;
+        img{
+            width: 200px;
+        }
+        input{
+            width: 250px;
+            height: 50px;
+            border-radius: 40px;
+        }
+        button{
+            width: 250px;
+            height: 50px; 
+            border-radius: 40px;  
+        }
+    }
+    .right-side{
+        width: 50%;
+        height: 100vh;
+    }
+    }
+}

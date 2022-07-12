@@ -1,0 +1,30 @@
+body .navbar {
+  background-color: #c1c1c1;
+}
+
+body main {
+  background-image: url(https://wallpaperaccess.com/full/4462578.jpg);
+  background-size: cover;
+}
+
+body main .style-box {
+  width: 50%;
+}
+
+body main .search-results {
+  width: 70%;
+}
+
+body main .search-results .box-anime {
+  height: 400px;
+}
+
+@media only screen and (max-width: 600px) {
+  body main .style-box {
+    width: 95%;
+  }
+  body main .search-results {
+    width: 95%;
+  }
+}
+/*# sourceMappingURL=style.css.map */
