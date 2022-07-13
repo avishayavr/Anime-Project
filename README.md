@@ -9,7 +9,7 @@ The style and responssive pages created by bootstrap , media query and scss.
 * Difficulties:
 1. API the api searching took to much time and the api that i find limited me in terms of his ideas.
 * What was goood:
- 1.Style there is a lot of html and style in this project u used boostrap for the most of the page style.
+* 1.Style there is a lot of html and style in this project u used boostrap for the most of the page style.
 # Wireframes & Design
 ![Wireframe - 1](https://github.com/avishayavr/Anime-Project/blob/main/screen%20shots%20two/screenshotlogin.png)
 ![Wireframe - 1](https://github.com/avishayavr/Anime-Project/blob/main/screen%20shots%20two/screenshotone.png)
