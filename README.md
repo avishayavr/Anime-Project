@@ -11,4 +11,4 @@ The style and responssive pages created by bootstrap , media query and scss.
 * What was goood:
  Style there is a lot of html and style in this project u used boostrap for the most of the page style.
 # Wireframes & Design
-![Wireframe - 1](https://miro.com/app/board/uXjVOm0VXMQ=/)
+![Wireframe - 1](https://github.com/avishayavr/Anime-Project/blob/main/screen%20shots%20two/screenshotlogin.png)
