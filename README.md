@@ -19,3 +19,4 @@ The style and responssive pages created by bootstrap , media query and scss.
 ![Wireframe - 1](https://github.com/avishayavr/Anime-Project/blob/main/screen%20shots%20two/screenshottwo.png)
 ![Wireframe - 1](https://github.com/avishayavr/Anime-Project/blob/main/screen%20shots%20two/screenshotuser.png)
 ![Wireframe - 1](https://github.com/avishayavr/Anime-Project/blob/main/screen%20shots%20two/screenshotusertwo.png)
+![miro] (https://miro.com/app/board/uXjVOm0VXMQ=/)
