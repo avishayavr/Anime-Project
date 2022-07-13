@@ -10,4 +10,4 @@ The style and responssive pages created by bootstrap , media query and scss.
  API the api searching took to much time and api that i find limited me in terms of his ideas.
 * What was goood:
 # Wireframes & Design
-![Wireframe - 1](./https://miro.com/app/board/uXjVOm0VXMQ=/)
+![Wireframe - 1](https://miro.com/app/board/uXjVOm0VXMQ=/)
