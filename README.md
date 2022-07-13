@@ -12,3 +12,10 @@ The style and responssive pages created by bootstrap , media query and scss.
  Style there is a lot of html and style in this project u used boostrap for the most of the page style.
 # Wireframes & Design
 ![Wireframe - 1](https://github.com/avishayavr/Anime-Project/blob/main/screen%20shots%20two/screenshotlogin.png)
+![Wireframe - 1]([(https://github.com/avishayavr/Anime-Project/blob/main/screen%20shots%20two/screenshotone.png)
+![Wireframe - 1](https://github.com/avishayavr/Anime-Project/blob/main/screen%20shots%20two/screenshotsearch.png)
+![Wireframe - 1](https://github.com/avishayavr/Anime-Project/blob/main/screen%20shots%20two/screenshotsearchtwo.png)
+![Wireframe - 1](https://github.com/avishayavr/Anime-Project/blob/main/screen%20shots%20two/screenshotthree.png)
+![Wireframe - 1](https://github.com/avishayavr/Anime-Project/blob/main/screen%20shots%20two/screenshottwo.png)
+![Wireframe - 1](https://github.com/avishayavr/Anime-Project/blob/main/screen%20shots%20two/screenshotuser.png)
+![Wireframe - 1](https://github.com/avishayavr/Anime-Project/blob/main/screen%20shots%20two/screenshotusertwo.png)
